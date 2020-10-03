@@ -1,6 +1,6 @@
 export const menu = ["skills", "experience", "blogs"];
 export const title = "Alex Chuvand - Junior Programmer Developer";
-export const description = `Started as a full staff JS developer, currently employed as a
+export const description = `I began as a full staff JS developer, I am currently employed as a
 front-end developer in the building space. I am a motivated
 individual and a team worker who is passionate about best practices
 in web development. Looking to work with experienced and positive
@@ -42,6 +42,11 @@ export const timeline = [
 ];
 
 export const educationTimeline = [
+  {
+    date: "2020",
+    title: "ACS Professional Year",
+    company: "Navitas",
+  },
   {
     date: "2018 - 2019",
     title: "Master of Information Technology, Software Development",
