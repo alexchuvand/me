@@ -1,5 +1,5 @@
 export const menu = ["skills", "experience", "blogs"];
-export const title = "Alex Chuvand - Junior Programmer Developer";
+export const title = "Alex Chuvand - Programmer Developer";
 export const description = `I began as a full staff JS developer, I am currently employed as a
 front-end developer in the building space. I am a motivated
 individual and a team worker who is passionate about best practices
